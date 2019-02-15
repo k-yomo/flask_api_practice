@@ -1,3 +1,6 @@
 
 # jetbrain IDE
 .idea
+
+# MySQL data
+mysql/mysql_data
